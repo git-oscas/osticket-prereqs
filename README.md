@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install IIS with CGI
 - Download PHP Manager for IIS
 - Download Rewrite Module
-- Create directory C:\PHP, Download PHP 7.3.8 unzip contents into C:\PHP
+- Download PHP 7.3.8
 - Download VC_redist.x86.exe
 - Download MySQL 5.5.62
 - Download osTicket v1.15.8
