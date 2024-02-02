@@ -149,7 +149,7 @@ Continue Setting up osticket in the browser
 
  - MySQL Database: osTicket
  - MySQL Username: root
- - MySQL Password: Password1
+ - MySQL Password: (your password)
  - Click “Install Now!”
 
 ![image](https://github.com/git-oscas/osticket-prereqs/assets/156957308/8daf38c4-76f6-4274-8d4c-c0eba9959a17)
